@@ -1,0 +1,15 @@
+D:\K205\TutorialK205\TutorialK205\bin\Debug\net6.0\TutorialK205.exe
+D:\K205\TutorialK205\TutorialK205\bin\Debug\net6.0\TutorialK205.deps.json
+D:\K205\TutorialK205\TutorialK205\bin\Debug\net6.0\TutorialK205.runtimeconfig.json
+D:\K205\TutorialK205\TutorialK205\bin\Debug\net6.0\TutorialK205.dll
+D:\K205\TutorialK205\TutorialK205\bin\Debug\net6.0\ref\TutorialK205.dll
+D:\K205\TutorialK205\TutorialK205\bin\Debug\net6.0\TutorialK205.pdb
+D:\K205\TutorialK205\TutorialK205\obj\Debug\net6.0\TutorialK205.csproj.AssemblyReference.cache
+D:\K205\TutorialK205\TutorialK205\obj\Debug\net6.0\TutorialK205.GeneratedMSBuildEditorConfig.editorconfig
+D:\K205\TutorialK205\TutorialK205\obj\Debug\net6.0\TutorialK205.AssemblyInfoInputs.cache
+D:\K205\TutorialK205\TutorialK205\obj\Debug\net6.0\TutorialK205.AssemblyInfo.cs
+D:\K205\TutorialK205\TutorialK205\obj\Debug\net6.0\TutorialK205.csproj.CoreCompileInputs.cache
+D:\K205\TutorialK205\TutorialK205\obj\Debug\net6.0\TutorialK205.dll
+D:\K205\TutorialK205\TutorialK205\obj\Debug\net6.0\ref\TutorialK205.dll
+D:\K205\TutorialK205\TutorialK205\obj\Debug\net6.0\TutorialK205.pdb
+D:\K205\TutorialK205\TutorialK205\obj\Debug\net6.0\TutorialK205.genruntimeconfig.cache
